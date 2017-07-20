@@ -15,6 +15,20 @@ header {
     height: 50px;
 }
 
+.head-h1,
+.nav-h1 {
+    position: relative;
+    top: 15px;
+}
+
+
+h1,
+h2,
+h3 {
+    display: inline;
+}
+
+
 body {
     height: inherit;
     max-width: 960px;
@@ -33,7 +47,6 @@ body {
     padding: 10px;
     margin-bottom: 10px;
     height: 50px;
-
 }
 
 #main-content {
@@ -63,9 +76,9 @@ article {
     background-color: #ebebeb;
     height: 35px;
     padding: 10px;
-
 }
-.p{
+
+.p {
     margin: auto;
 }
 
